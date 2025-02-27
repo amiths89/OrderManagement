@@ -8,7 +8,8 @@ Install and setup kafka
 3. Once Kafka is up and running edit the port used by kafka (server.port) in both Order-Service and Inventory-Service to whichever port kafka would be running.
 4. Start both order-service and inventory-service
 5. Use a postman to post request in order-service. Below is a sample request body
-  
+
+  ```json
    {
     "customerName": "John Doe",
     "product": "Laptop",

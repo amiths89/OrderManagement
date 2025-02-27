@@ -1,0 +1,5 @@
+com\inventory\config\KafkaTopicConfig.class
+com\inventory\config\InventoryKafkaProducerConfig.class
+com\inventory\InventoryServiceApplication.class
+com\inventory\service\InventoryService.class
+com\inventory\controller\InventoryController.class

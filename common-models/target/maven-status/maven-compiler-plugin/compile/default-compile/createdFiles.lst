@@ -1,0 +1,2 @@
+com\microservice\common\models\OrderEvent.class
+com\microservice\common\models\InventoryEvent.class
